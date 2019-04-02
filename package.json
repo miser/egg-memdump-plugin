@@ -1,6 +1,6 @@
 {
   "name": "egg-memdump-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "It is plugin of eggjs for memdump",
   "eggPlugin": {
     "name": "memdumpPlugin"
@@ -51,7 +51,7 @@
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-memdump-plugin#readme",
+  "homepage": "https://github.com/miser/egg-memdump-plugin",
   "author": "",
   "license": "MIT"
 }

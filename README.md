@@ -2,7 +2,7 @@
 
 It is egg plugin for [memdump](https://github.com/miser/memdump).
 
-> `node-memwatch` is a tool that can help us dump the heap at the nodejs server when the memory has leaked.
+> `memdump` is a tool that can help us dump the heap at the nodejs server when the memory has leaked.
 
 ## Install
 
