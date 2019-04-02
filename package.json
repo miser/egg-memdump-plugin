@@ -1,7 +1,7 @@
 {
   "name": "egg-memdump-plugin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "It is plugin of eggjs for memdump",
   "eggPlugin": {
     "name": "memdumpPlugin"
   },
