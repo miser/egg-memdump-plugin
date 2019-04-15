@@ -27,12 +27,6 @@ exports.memdumpPlugin = {
 exports.memdumpPlugin = {};
 ```
 
-see [config/config.default.js](config/config.default.js) for more detail.
-
-## Questions & Suggestions
-
-Please open an issue [here](https://github.com/eggjs/egg/issues).
-
 ## License
 
 [MIT](LICENSE)
