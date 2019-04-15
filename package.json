@@ -1,6 +1,6 @@
 {
   "name": "egg-memdump-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "It is plugin of eggjs for memdump",
   "eggPlugin": {
     "name": "memdumpPlugin"
@@ -36,6 +36,7 @@
     "autod": "autod"
   },
   "files": [
+    "lib",
     "app.js",
     "agent.js",
     "config",
